@@ -1,0 +1,19 @@
+{
+  "name": "mathoperation263",
+  "version": "1.0.0",
+  "description": "MathOperations",
+  "main": "index.js",
+  "scripts": {
+    "test": "\u0016"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pada263/MathOperation.git"
+  },
+  "author": "Patrick Klein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pada263/MathOperation/issues"
+  },
+  "homepage": "https://github.com/Pada263/MathOperation#readme"
+}
