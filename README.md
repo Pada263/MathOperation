@@ -9,7 +9,7 @@ A simple calculator operators library!
 Then...
 
 ```
-import { add } from 'MathOperation';
+import { add } from 'mathoperation263';
 
 add({
     [value,value]
